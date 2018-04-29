@@ -12,4 +12,5 @@
     <access origin="*"/>
 	<icon src="icon.png" />
 	<plugin name="cordova-plugin-whitelist" source="npm" />
+	<plugin name="cordova-plugin-inappbrowser" source="npm" />
 </widget>
