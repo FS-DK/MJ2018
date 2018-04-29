@@ -8,6 +8,7 @@
         Julecup Teamet
     </author>
     <content src="index.html" />
+	<allow-navigation href="http://www.julecup.dk/*" />
     <access origin="*"/>
 	<icon src="icon.png" />
 </widget>
