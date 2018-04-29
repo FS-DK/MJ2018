@@ -11,4 +11,5 @@
 	<allow-navigation href="http://www.julecup.dk/*" />
     <access origin="*"/>
 	<icon src="icon.png" />
+	<plugin name="cordova-plugin-whitelist" source="npm" />
 </widget>
